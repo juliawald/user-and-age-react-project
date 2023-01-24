@@ -7,10 +7,13 @@
 .users ul {
   list-style: none;
   padding: 1rem;
+
 }
 
 .users li {
-  border: 1px solid #ccc;
+  border: 1px solid #2b4570;
+  border-radius: 6px;
   margin: 0.5rem 0;
   padding: 0.5rem;
+  box-shadow: 0 2px 8px rgba(113, 128, 172, 0.98);
 }

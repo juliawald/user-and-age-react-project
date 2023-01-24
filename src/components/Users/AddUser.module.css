@@ -16,9 +16,11 @@
   font: inherit;
   display: block;
   width: 100%;
-  border: 1px solid #ccc;
-  padding: 0.15rem;
+  padding: 0.5rem;
   margin-bottom: 0.5rem;
+  border: 1px solid #2b4570;
+  box-shadow: 0 2px 8px rgba(113, 128, 172, 0.98);
+  border-radius: 6px;
 }
 
 .input input:focus {
